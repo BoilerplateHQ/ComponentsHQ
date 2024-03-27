@@ -6,3 +6,4 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Component Multiplier | Renders multiple instances of another component. | [GitHub Link](https://github.com/BoilerplateHQ/ComponentsHQ/tree/main/component-multiplier) | [BoilerplateHQ Link](https://boilerplatehq.com/components/component-multiplier) |
 | Button BackToTop | Scrolls the viewport to the top of the page. | [GitHub Link](https://github.com/BoilerplateHQ/ComponentsHQ/tree/main/button-back-to-top) | [BoilerplateHQ Link](https://boilerplatehq.com/components/button-back-to-top) |
+| Breadcrumps| Displays the current page's path. | [GitHub Link](https://github.com/BoilerplateHQ/ComponentsHQ/tree/main/breadcrumps) | [BoilerplateHQ Link](https://boilerplatehq.com/components/breadcrumps) |

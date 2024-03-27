@@ -24,7 +24,7 @@ GitHub Link: [cn Function](https://github.com/BoilerplateHQ/FunctionsHQ/tree/mai
 
 *Assuming you are collecting components in the components folder and use @paths.*
 
-```js
+```tsx
 import {Button_BackToTop} from '@/components/button-back-to-top'
 
 export default function Page(){
